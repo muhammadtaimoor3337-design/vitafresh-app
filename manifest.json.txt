@@ -1,0 +1,26 @@
+{
+  "name": "VitaFresh - Fresh Grocery in 30 mins by Foodpanda",
+  "short_name": "VitaFresh",
+  "description": "Fresh groceries delivered in 30 mins via Foodpanda Pandamart in Peshawar. Earn rewards with AdMob ads.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#E8F5F1",
+  "theme_color": "#2EBFA0",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3081/3081989.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "food", "lifestyle"],
+  "screenshots": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3081/3081989.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
